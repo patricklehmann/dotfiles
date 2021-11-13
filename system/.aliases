@@ -5,3 +5,4 @@ alias -g ll="ls -lathr"
 alias gs="git status"
 
 alias gcm() { git commit -m $1 }
+alias gph="git push origin HEAD"
